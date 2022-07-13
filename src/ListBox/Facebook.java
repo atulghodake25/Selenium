@@ -43,8 +43,9 @@ public class Facebook {
 		Thread.sleep(2000);
 		driver.findElement(By.name("websubmit")).click();
 
-		
+		System.out.println("This is my selenium project");
 
+		System.out.println("I am parfect");
 
 	}
 
